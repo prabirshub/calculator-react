@@ -1,0 +1,8 @@
+.display {
+  max-width: 200px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 5px 10px;
+  border-radius: 4px;
+  text-align: right;
+  font-size: 25px;
+}
